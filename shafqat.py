@@ -1,3 +1,5 @@
+#M.Shafqat
+#S23BSEEN1E02039
 class Salary:
     def __init__(self, base_salary):
         self.base_salary = base_salary
